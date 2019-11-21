@@ -1,4 +1,4 @@
-package lin.pattern.Creational.Structural;
+package lin.pattern.Creational.Builder;
 
 public class pattern {
     /**

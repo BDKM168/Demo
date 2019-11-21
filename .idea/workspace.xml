@@ -6,255 +6,10 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0ad32f0c-101e-471b-b9db-d53186f7e2d7" name="Default Changelist" comment="DailyWork">
-      <change afterPath="$PROJECT_DIR$/.idea/Dome.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/Dome_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/webServers.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dome.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/Dome_war_exploded/WEB-INF/classes/META-INF/Dome.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/Dome_war_exploded/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/Dome_war_exploded/config.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/Dome_war_exploded/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/Dome_war_exploded/jsp/TestJSP.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/Dome_war_exploded/jsp/ln.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/Dome_war_exploded/jsp/useBeanTest.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Dome/META-INF/Dome.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Dome/Student.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Dome/cn/girl.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Dome/cn/jdbc/jdbcConnection.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Dome/cn/jdbc/mysqlLearn.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Dome/cn/js/Sort.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Dome/cn/js/picture/20160916153212716.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Dome/cn/js/picture/20160916154036887.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Dome/cn/js/picture/20160916160748389.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Dome/cn/js/picture/20160916164754013.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Dome/cn/js/sort01_bubble1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Dome/cn/js/sort01_bubble2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Dome/cn/js/sort01_bubble3.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Dome/cn/js/sort02_select.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Dome/cn/js/sort03_insert01.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Dome/cn/js/sort03_insert02.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Dome/cn/js/sort04_shell.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Dome/cn/js/sort05_merge.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Dome/cn/js/sort06_quick.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Dome/cn/js/sort07_heap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Dome/cn/js/sort08_counting.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Dome/cn/js/sort09_bucket.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Dome/cn/js/sort10_radix.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Dome/com/JDBC/jdbcConnection.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Dome/com/JavaBean/Person.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Dome/com/JavaBean/javaBeanTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Dome/com/ObjectTe/Demo1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Dome/com/ObjectTe/Member.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Dome/com/ObjectTe/Mtest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Dome/com/ObjectTe/Object1015.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Dome/com/ObjectTe/ObjectTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Dome/com/ObjectTe/Parameter.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Dome/com/ObjectTe/Person.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Dome/com/ObjectTe/Teacher.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Dome/com/ObjectTe/ThisTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Dome/com/ObjectTe/learning.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Dome/com/String/StringBufferTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Dome/com/String/Test19.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Dome/lin/pattern/BasePoint/design.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Dome/lin/pattern/Creational/Builder/pattern.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Dome/lin/pattern/Creational/Prototype/PrototypePattren.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Dome/lin/pattern/Creational/Prototype/problem.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Dome/lin/pattern/Creational/Structural/pattern.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Dome/lin/pattern/Creational/Structural/pattern.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Dome/lin/pattern/Creational/abstractfactory/Problem.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Dome/lin/pattern/Creational/abstractfactory/Summary.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Dome/lin/pattern/Creational/abstractfactory/pattern/AbstractProductA.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Dome/lin/pattern/Creational/abstractfactory/pattern/AbstractProductB.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Dome/lin/pattern/Creational/abstractfactory/pattern/Client.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Dome/lin/pattern/Creational/abstractfactory/pattern/ConcreteFactory1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Dome/lin/pattern/Creational/abstractfactory/pattern/ConcreteFactory2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Dome/lin/pattern/Creational/abstractfactory/pattern/ConcreteProductA1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Dome/lin/pattern/Creational/abstractfactory/pattern/ConcreteProductA2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Dome/lin/pattern/Creational/abstractfactory/pattern/ConcreteProductB1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Dome/lin/pattern/Creational/abstractfactory/pattern/ConcreteProductB2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Dome/lin/pattern/Creational/abstractfactory/pattern/Factory.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Dome/lin/pattern/Creational/abstractfactory/pattern/pattren.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Dome/lin/pattern/Creational/abstractfactory/problem.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Dome/lin/pattern/Creational/abstractfactory/skin/Button.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Dome/lin/pattern/Creational/abstractfactory/skin/ComboBox.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Dome/lin/pattern/Creational/abstractfactory/skin/SkinFactory.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Dome/lin/pattern/Creational/abstractfactory/skin/SpringButton.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Dome/lin/pattern/Creational/abstractfactory/skin/SpringComboBox.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Dome/lin/pattern/Creational/abstractfactory/skin/SpringSkinFactory.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Dome/lin/pattern/Creational/abstractfactory/skin/SpringTextField.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Dome/lin/pattern/Creational/abstractfactory/skin/SummerButton.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Dome/lin/pattern/Creational/abstractfactory/skin/SummerComboBox.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Dome/lin/pattern/Creational/abstractfactory/skin/SummerSkinFactory.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Dome/lin/pattern/Creational/abstractfactory/skin/SummerTextField.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Dome/lin/pattern/Creational/abstractfactory/skin/TextField.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Dome/lin/pattern/Creational/abstractfactory/skin/XMLUtil.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Dome/lin/pattern/Creational/abstractfactory/skin/client.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Dome/lin/pattern/Creational/abstractfactory/skin/config.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Dome/lin/pattern/Creational/abstractfactory/solve.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Dome/lin/pattern/Creational/factorymethod/Logger/DatabaseLogger.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Dome/lin/pattern/Creational/factorymethod/Logger/DatabaseLoggerFactory.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Dome/lin/pattern/Creational/factorymethod/Logger/FileLogger.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Dome/lin/pattern/Creational/factorymethod/Logger/FileLoggerFactory.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Dome/lin/pattern/Creational/factorymethod/Logger/Logger.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Dome/lin/pattern/Creational/factorymethod/Logger/LoggerFactory.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Dome/lin/pattern/Creational/factorymethod/Logger/XMLUtil.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Dome/lin/pattern/Creational/factorymethod/Logger/client.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Dome/lin/pattern/Creational/factorymethod/Logger/config.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Dome/lin/pattern/Creational/factorymethod/LoggerFactory.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Dome/lin/pattern/Creational/factorymethod/Summary.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Dome/lin/pattern/Creational/factorymethod/pattern/FactoryPattern.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Dome/lin/pattern/Creational/factorymethod/pattern/FactoryPattern.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Dome/lin/pattern/Creational/factorymethod/problem.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Dome/lin/pattern/Creational/factorymethod/problemclass.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Dome/lin/pattern/Creational/factorymethod/solve.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Dome/lin/pattern/Creational/simplefactory/20130711143612921.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Dome/lin/pattern/Creational/simplefactory/Chart.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Dome/lin/pattern/Creational/simplefactory/ChartDisplay/Chart.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Dome/lin/pattern/Creational/simplefactory/ChartDisplay/ChartFactory.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Dome/lin/pattern/Creational/simplefactory/ChartDisplay/Client.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Dome/lin/pattern/Creational/simplefactory/ChartDisplay/HistogramChart.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Dome/lin/pattern/Creational/simplefactory/ChartDisplay/LineChart.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Dome/lin/pattern/Creational/simplefactory/ChartDisplay/PieChart.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Dome/lin/pattern/Creational/simplefactory/ChartDisplay/XMLUtil.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Dome/lin/pattern/Creational/simplefactory/ChartDisplay/config.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Dome/lin/pattern/Creational/simplefactory/Pattern/Client.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Dome/lin/pattern/Creational/simplefactory/Pattern/ConcreateProductA.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Dome/lin/pattern/Creational/simplefactory/Pattern/ConcreateProductB.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Dome/lin/pattern/Creational/simplefactory/Pattern/Factory.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Dome/lin/pattern/Creational/simplefactory/Pattern/Product.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Dome/lin/pattern/Creational/simplefactory/Summary.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Dome/lin/pattern/Creational/singleton/LoadBalance/Client.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Dome/lin/pattern/Creational/singleton/LoadBalance/LoadBalance.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Dome/lin/pattern/Creational/singleton/LoadBalance/LoadBalance.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Dome/lin/pattern/Creational/singleton/Singleton.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Dome/lin/pattern/Creational/singleton/Task.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Dome/lin/pattern/Creational/singleton/aim.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Dome/lin/pattern/Creational/singleton/pattern/EagerSingleton.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/girl.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/jdbc/jdbcConnection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/jdbc/mysqlLearn.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/js/Sort.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/js/picture/20160916153212716.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/js/picture/20160916154036887.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/js/picture/20160916160748389.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/js/picture/20160916164754013.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/js/sort01_bubble1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/js/sort01_bubble2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/js/sort01_bubble3.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/js/sort02_select.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/js/sort03_insert01.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/js/sort03_insert02.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/js/sort04_shell.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/js/sort05_merge.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/js/sort06_quick.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/js/sort07_heap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/js/sort08_counting.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/js/sort09_bucket.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/js/sort10_radix.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/JDBC/jdbcConnection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/JavaBean/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/JavaBean/javaBeanTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ObjectTe/Demo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ObjectTe/Member.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ObjectTe/Mtest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ObjectTe/Object1015.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ObjectTe/ObjectTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ObjectTe/Parameter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ObjectTe/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ObjectTe/Teacher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ObjectTe/ThisTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ObjectTe/learning.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/String/StringBufferTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/String/Test19.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lin/pattern/BasePoint/design.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lin/pattern/Creational/Builder/pattern.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lin/pattern/Creational/Prototype/PrototypePattren.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lin/pattern/Creational/Prototype/problem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lin/pattern/Creational/Structural/pattern.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lin/pattern/Creational/Structural/pattern.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lin/pattern/Creational/abstractfactory/Problem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lin/pattern/Creational/abstractfactory/Summary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lin/pattern/Creational/abstractfactory/pattern/AbstractProductA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lin/pattern/Creational/abstractfactory/pattern/AbstractProductB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lin/pattern/Creational/abstractfactory/pattern/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lin/pattern/Creational/abstractfactory/pattern/ConcreteFactory1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lin/pattern/Creational/abstractfactory/pattern/ConcreteFactory2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lin/pattern/Creational/abstractfactory/pattern/ConcreteProductA1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lin/pattern/Creational/abstractfactory/pattern/ConcreteProductA2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lin/pattern/Creational/abstractfactory/pattern/ConcreteProductB1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lin/pattern/Creational/abstractfactory/pattern/ConcreteProductB2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lin/pattern/Creational/abstractfactory/pattern/Factory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lin/pattern/Creational/abstractfactory/pattern/pattren.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lin/pattern/Creational/abstractfactory/problem.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lin/pattern/Creational/abstractfactory/skin/Button.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lin/pattern/Creational/abstractfactory/skin/ComboBox.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lin/pattern/Creational/abstractfactory/skin/SkinFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lin/pattern/Creational/abstractfactory/skin/SpringButton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lin/pattern/Creational/abstractfactory/skin/SpringComboBox.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lin/pattern/Creational/abstractfactory/skin/SpringSkinFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lin/pattern/Creational/abstractfactory/skin/SpringTextField.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lin/pattern/Creational/abstractfactory/skin/SummerButton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lin/pattern/Creational/abstractfactory/skin/SummerComboBox.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lin/pattern/Creational/abstractfactory/skin/SummerSkinFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lin/pattern/Creational/abstractfactory/skin/SummerTextField.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lin/pattern/Creational/abstractfactory/skin/TextField.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lin/pattern/Creational/abstractfactory/skin/XMLUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lin/pattern/Creational/abstractfactory/skin/client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lin/pattern/Creational/abstractfactory/skin/config.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lin/pattern/Creational/abstractfactory/solve.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lin/pattern/Creational/factorymethod/Logger/DatabaseLogger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lin/pattern/Creational/factorymethod/Logger/DatabaseLoggerFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lin/pattern/Creational/factorymethod/Logger/FileLogger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lin/pattern/Creational/factorymethod/Logger/FileLoggerFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lin/pattern/Creational/factorymethod/Logger/Logger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lin/pattern/Creational/factorymethod/Logger/LoggerFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lin/pattern/Creational/factorymethod/Logger/XMLUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lin/pattern/Creational/factorymethod/Logger/client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lin/pattern/Creational/factorymethod/Logger/config.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lin/pattern/Creational/factorymethod/LoggerFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lin/pattern/Creational/factorymethod/Summary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lin/pattern/Creational/factorymethod/pattern/FactoryPattern.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lin/pattern/Creational/factorymethod/pattern/FactoryPattern.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lin/pattern/Creational/factorymethod/problem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lin/pattern/Creational/factorymethod/problemclass.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lin/pattern/Creational/factorymethod/solve.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lin/pattern/Creational/simplefactory/20130711143612921.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lin/pattern/Creational/simplefactory/ChartDisplay/Chart.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lin/pattern/Creational/simplefactory/ChartDisplay/ChartFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lin/pattern/Creational/simplefactory/ChartDisplay/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lin/pattern/Creational/simplefactory/ChartDisplay/HistogramChart.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lin/pattern/Creational/simplefactory/ChartDisplay/LineChart.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lin/pattern/Creational/simplefactory/ChartDisplay/PieChart.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lin/pattern/Creational/simplefactory/ChartDisplay/XMLUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lin/pattern/Creational/simplefactory/ChartDisplay/config.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lin/pattern/Creational/simplefactory/Pattern/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lin/pattern/Creational/simplefactory/Pattern/ConcreateProductA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lin/pattern/Creational/simplefactory/Pattern/ConcreateProductB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lin/pattern/Creational/simplefactory/Pattern/Factory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lin/pattern/Creational/simplefactory/Pattern/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lin/pattern/Creational/simplefactory/Summary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lin/pattern/Creational/simplefactory/a1ChartProblem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lin/pattern/Creational/singleton/LoadBalance/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lin/pattern/Creational/singleton/LoadBalance/LoadBalance.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lin/pattern/Creational/singleton/LoadBalance/LoadBalance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lin/pattern/Creational/singleton/Singleton.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lin/pattern/Creational/singleton/Task.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lin/pattern/Creational/singleton/aim.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lin/pattern/Creational/singleton/pattern/EagerSingleton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/config.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/jsp/TestJSP.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/jsp/ln.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/jsp/useBeanTest.jsp" afterDir="false" />
+    <list default="true" id="0ad32f0c-101e-471b-b9db-d53186f7e2d7" name="Default Changelist" comment="Correct">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lin/pattern/Creational/Structural/pattern.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lin/pattern/Creational/Structural/pattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lin/pattern/Creational/Builder/pattern.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -286,15 +41,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/lin/pattern/Creational/abstractfactory/pattern/Client.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="100">
-              <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/lin/pattern/Creational/factorymethod/Logger/client.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="650">
@@ -303,22 +49,18 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/lin/pattern/Creational/factorymethod/LoggerFactory.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/lin/pattern/Creational/Builder/pattern.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+            <state relative-caret-position="292">
+              <caret line="14" column="6" lean-forward="true" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="6" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/lin/pattern/Creational/factorymethod/problem.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="48">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/src/lin/pattern/Creational/Builder/pattern.gif">
+          <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -459,8 +201,8 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1912" />
-    <option name="y" value="-8" />
+    <option name="x" value="1903" />
+    <option name="y" value="-12" />
     <option name="width" value="1616" />
     <option name="height" value="876" />
   </component>
@@ -476,6 +218,44 @@
             <path>
               <item name="Dome" type="b2602c69:ProjectViewProjectNode" />
               <item name="Dome" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Dome" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Dome" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Dome" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Dome" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Dome" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Dome" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Dome" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Dome" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="pattern" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Dome" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Dome" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="pattern" type="462c0819:PsiDirectoryNode" />
+              <item name="Creational" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Dome" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Dome" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="pattern" type="462c0819:PsiDirectoryNode" />
+              <item name="Creational" type="462c0819:PsiDirectoryNode" />
+              <item name="Builder" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Dome" type="b2602c69:ProjectViewProjectNode" />
@@ -841,7 +621,7 @@
       <workItem from="1574038375993" duration="13643000" />
       <workItem from="1574308011841" duration="301000" />
       <workItem from="1574308322701" duration="3548000" />
-      <workItem from="1574324196540" duration="2367000" />
+      <workItem from="1574324196540" duration="2863000" />
     </task>
     <task id="LOCAL-00001" summary="DailyWork">
       <created>1574326128012</created>
@@ -850,17 +630,24 @@
       <option name="project" value="LOCAL" />
       <updated>1574326128012</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="DailyWork">
+      <created>1574326779174</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1574326779174</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="125142000" />
+    <option name="totallyTimeSpent" value="125638000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1616" height="876" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49590164" visible="true" weight="0.26036268" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49590164" visible="true" weight="0.26036268" />
       <window_info id="Structure" order="1" sideWeight="0.5026316" side_tool="true" weight="0.2071525" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -904,28 +691,14 @@
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
     <MESSAGE value="DailyWork" />
-    <option name="LAST_COMMIT_MESSAGE" value="DailyWork" />
+    <MESSAGE value="Correct" />
+    <option name="LAST_COMMIT_MESSAGE" value="Correct" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/lin/pattern/Creational/abstractfactory/skin/SpringSkinFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding>
-            <element signature="e#158#159#0" expanded="true" />
-            <element signature="e#185#186#0" expanded="true" />
-            <element signature="e#241#242#0" expanded="true" />
-            <element signature="e#268#269#0" expanded="true" />
-            <element signature="e#322#323#0" expanded="true" />
-            <element signature="e#349#350#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/lin/pattern/Creational/abstractfactory/skin/XMLUtil.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="147">
@@ -1330,20 +1103,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/lin/pattern/Creational/Structural/pattern.gif">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/lin/pattern/Creational/singleton/Task.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
           <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lin/pattern/Creational/Structural/pattern.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="575">
-          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
         </state>
       </provider>
     </entry>
@@ -1667,6 +1430,19 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="650">
           <caret line="26" column="54" lean-forward="true" selection-start-line="26" selection-start-column="54" selection-end-line="26" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lin/pattern/Creational/Builder/pattern.gif">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lin/pattern/Creational/Builder/pattern.gif">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lin/pattern/Creational/Builder/pattern.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="292">
+          <caret line="14" column="6" lean-forward="true" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="6" />
         </state>
       </provider>
     </entry>
