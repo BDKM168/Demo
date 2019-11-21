@@ -1,0 +1,1487 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Dome:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0ad32f0c-101e-471b-b9db-d53186f7e2d7" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Dome" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/lin/pattern/Creational/abstractfactory/pattern/Client.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="100">
+              <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/lin/pattern/Creational/factorymethod/Logger/client.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="25">
+              <caret line="6" column="24" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/lin/pattern/Creational/factorymethod/LoggerFactory.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/lin/pattern/Creational/factorymethod/problem.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="48">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/lin/pattern/Creational/factorymethod/Summary.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="703">
+              <caret line="28" column="6" selection-start-line="28" selection-start-column="6" selection-end-line="28" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Dome.iml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/JavaBean/javaBeanTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="578">
+              <caret line="23" column="42" selection-start-line="23" selection-start-column="42" selection-end-line="23" selection-end-column="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/JavaBean/Person.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/JDBC/jdbcConnection.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1350">
+              <caret line="54" column="23" selection-start-line="54" selection-start-column="23" selection-end-line="54" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/lin/pattern/Creational/abstractfactory/pattern/AbstractProductA.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-3">
+              <caret column="39" selection-start-column="39" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jsp File" />
+        <option value="package-info" />
+        <option value="Tag Library Descriptor" />
+        <option value="XSLT Stylesheet" />
+        <option value="FxmlFile" />
+        <option value="config" />
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/lin/pattern/Creational/factorymethod/pattern/FactoryPattern.java" />
+        <option value="$PROJECT_DIR$/src/lin/pattern/Creational/factorymethod/Logger/DatabaseLogger.java" />
+        <option value="$PROJECT_DIR$/src/lin/pattern/Creational/factorymethod/Logger/FileLogger.java" />
+        <option value="$PROJECT_DIR$/src/lin/pattern/Creational/factorymethod/Logger/XMLUtil.java" />
+        <option value="$PROJECT_DIR$/src/lin/pattern/Creational/factorymethod/Logger/config.xml" />
+        <option value="$PROJECT_DIR$/src/lin/pattern/Creational/factorymethod/Logger/Logger.java" />
+        <option value="$PROJECT_DIR$/src/lin/pattern/Creational/factorymethod/Logger/DatabaseLoggerFactory.java" />
+        <option value="$PROJECT_DIR$/src/lin/pattern/Creational/factorymethod/Logger/FileLoggerFactory.java" />
+        <option value="$PROJECT_DIR$/src/lin/pattern/Creational/factorymethod/Logger/LoggerFactory.java" />
+        <option value="$PROJECT_DIR$/src/lin/pattern/Creational/factorymethod/Logger/client.java" />
+        <option value="$PROJECT_DIR$/src/lin/pattern/Creational/abstractfactory/Problem.java" />
+        <option value="$PROJECT_DIR$/src/lin/pattern/Creational/factorymethod/Summary.java" />
+        <option value="$PROJECT_DIR$/src/lin/pattern/Creational/abstractfactory/skin/TextField.java" />
+        <option value="$PROJECT_DIR$/src/lin/pattern/Creational/abstractfactory/skin/Combobox.java" />
+        <option value="$PROJECT_DIR$/src/lin/pattern/Creational/abstractfactory/skin/Button.java" />
+        <option value="$PROJECT_DIR$/src/lin/pattern/Creational/abstractfactory/skin/SpringButton.java" />
+        <option value="$PROJECT_DIR$/src/lin/pattern/Creational/abstractfactory/skin/SummerButton.java" />
+        <option value="$PROJECT_DIR$/src/lin/pattern/Creational/abstractfactory/skin/SpringTextField.java" />
+        <option value="$PROJECT_DIR$/src/lin/pattern/Creational/abstractfactory/skin/ComboBox.java" />
+        <option value="$PROJECT_DIR$/src/lin/pattern/Creational/abstractfactory/skin/SpringComboBox.java" />
+        <option value="$PROJECT_DIR$/src/lin/pattern/Creational/abstractfactory/skin/SummerComboBox.java" />
+        <option value="$PROJECT_DIR$/src/lin/pattern/Creational/abstractfactory/skin/SummerTextField.java" />
+        <option value="$PROJECT_DIR$/src/lin/pattern/Creational/abstractfactory/skin/SkinFactory.java" />
+        <option value="$PROJECT_DIR$/src/lin/pattern/Creational/abstractfactory/skin/SummerSkinFactory.java" />
+        <option value="$PROJECT_DIR$/src/lin/pattern/Creational/abstractfactory/skin/SpringSkinFactory.java" />
+        <option value="$PROJECT_DIR$/src/lin/pattern/Creational/abstractfactory/skin/config.xml" />
+        <option value="$PROJECT_DIR$/src/lin/pattern/Creational/abstractfactory/skin/client.java" />
+        <option value="$PROJECT_DIR$/src/lin/pattern/Creational/abstractfactory/skin/XMLUtil.java" />
+        <option value="$PROJECT_DIR$/src/lin/pattern/Creational/abstractfactory/Summary.java" />
+        <option value="$PROJECT_DIR$/src/lin/pattern/Creational/abstractfactory/pattern/AbstractProductA.java" />
+        <option value="$PROJECT_DIR$/src/lin/pattern/Creational/abstractfactory/pattern/AbstractProductB.java" />
+        <option value="$PROJECT_DIR$/src/lin/pattern/Creational/abstractfactory/pattern/ConcreteProductA1.java" />
+        <option value="$PROJECT_DIR$/src/lin/pattern/Creational/abstractfactory/pattern/ConcreteProductA2.java" />
+        <option value="$PROJECT_DIR$/src/lin/pattern/Creational/abstractfactory/pattern/ConcreteProductB1.java" />
+        <option value="$PROJECT_DIR$/src/lin/pattern/Creational/abstractfactory/pattern/ConcreteProductB2.java" />
+        <option value="$PROJECT_DIR$/src/lin/pattern/Creational/abstractfactory/pattern/Factory.java" />
+        <option value="$PROJECT_DIR$/src/lin/pattern/Creational/abstractfactory/pattern/ConcreteFactory.java" />
+        <option value="$PROJECT_DIR$/src/lin/pattern/Creational/abstractfactory/pattern/ConcreteFactory2.java" />
+        <option value="$PROJECT_DIR$/src/lin/pattern/Creational/abstractfactory/pattern/ConcreteFactory1.java" />
+        <option value="$PROJECT_DIR$/src/lin/pattern/Creational/abstractfactory/pattern/Client.java" />
+        <option value="$PROJECT_DIR$/src/lin/pattern/Creational/singleton/Task.java" />
+        <option value="$PROJECT_DIR$/src/lin/pattern/Creational/singleton/LoadBalance/LoadBalance.java" />
+        <option value="$PROJECT_DIR$/src/lin/pattern/Creational/singleton/LoadBalance/Client.java" />
+        <option value="$PROJECT_DIR$/src/lin/pattern/Creational/singleton/pattern/EagerSingleton.java" />
+        <option value="$PROJECT_DIR$/src/lin/pattern/Creational/singleton/aim.java" />
+        <option value="$PROJECT_DIR$/src/lin/pattern/Structural/pattern.java" />
+        <option value="$PROJECT_DIR$/src/lin/pattern/Creational/Structural/pattern.java" />
+        <option value="$PROJECT_DIR$/src/lin/pattern/Creational/Prototype/problem.java" />
+        <option value="$PROJECT_DIR$/src/lin/pattern/Creational/simplefactory/ChartDisplay/XMLUtil.java" />
+        <option value="$PROJECT_DIR$/src/cn/new.html" />
+        <option value="$PROJECT_DIR$/src/lin/pattern/Creational/factorymethod/LoggerFactory.java" />
+      </list>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1912" />
+    <option name="y" value="-8" />
+    <option name="width" value="1616" />
+    <option name="height" value="876" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Dome" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Dome" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Dome" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="Dome" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope">
+        <subPane subId="Scope 'Production'; set:Production; class com.intellij.psi.search.scope.ProjectProductionScope">
+          <expand>
+            <path>
+              <item name="Dome" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="Dome" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+            </path>
+            <path>
+              <item name="Dome" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="Dome" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="Dome" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="Dome" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="com" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="Dome" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="C:\IdeaWorkspace\Dome" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </path>
+            <path>
+              <item name="Dome" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="C:\IdeaWorkspace\Dome" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name=".idea" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="Dome" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="C:\IdeaWorkspace\Dome" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="Dome" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="C:\IdeaWorkspace\Dome" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="com" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="Dome" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="C:\IdeaWorkspace\Dome" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="web" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Dome" type="58d84e3e:PackageViewProjectNode" />
+              <item name="Dome" type="616d4139:PackageViewModuleNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="XML" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="lin.pattern.Creational.abstractfactory.skin" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\IdeaWorkspace\Dome\src\lin\pattern\Creational\abstractfactory\skin" />
+      <recent name="C:\IdeaWorkspace\Dome\src\lin\pattern\Creational\simplefactory\Chart" />
+      <recent name="C:\IdeaWorkspace\Dome\src\lin\pattern\Creational" />
+      <recent name="C:\IdeaWorkspace\Dome\src" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="lin.pattern.Creational.abstractfactory.pattern" />
+      <recent name="lin.pattern.Creational.abstractfactory.skin" />
+      <recent name="lin.pattern.Creational.simplefactory.ChartDisplay" />
+      <recent name="com.JavaBean.JDBC" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\IdeaWorkspace\Dome\src\lin\pattern\Structural" />
+      <recent name="C:\IdeaWorkspace\Dome\src\lin\pattern\Creational\Builder" />
+      <recent name="C:\IdeaWorkspace\Dome\src\lin\pattern\Creational\Prototype" />
+      <recent name="C:\IdeaWorkspace\Dome\src\lin\pattern\Creational\singleton\LoadBalance" />
+      <recent name="C:\IdeaWorkspace\Dome\src\lin\pattern\Creational\singleton" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.client">
+    <configuration name="Client (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lin.pattern.Creational.abstractfactory.pattern.Client" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lin.pattern.Creational.abstractfactory.pattern.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Client (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lin.pattern.Creational.simplefactory.ChartDisplay.Client" />
+      <module name="Dome" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lin.pattern.Creational.simplefactory.ChartDisplay.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Client" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lin.pattern.Creational.singleton.LoadBalance.Client" />
+      <module name="Dome" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lin.pattern.Creational.singleton.LoadBalance.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lin.pattern.Creational.simplefactory.Pattern.Client" />
+      <module name="Dome" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lin.pattern.Creational.simplefactory.Pattern.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="client (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lin.pattern.Creational.abstractfactory.skin.client" />
+      <module name="Dome" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lin.pattern.Creational.abstractfactory.skin.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="client" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lin.pattern.Creational.factorymethod.Logger.client" />
+      <module name="Dome" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lin.pattern.Creational.factorymethod.Logger.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ln.jsp" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:8080/Dome/jsp/ln.jsp">
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="Dome" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <module name="Dome" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tomcat 7" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 7.0.42" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="UPDATING_POLICY" value="redeploy-artifacts" />
+      <deployment>
+        <artifact name="Dome:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/Dome" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_Dome" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="63099" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="Dome:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Client (1)" />
+        <item itemvalue="Application.client (1)" />
+        <item itemvalue="Application.Client (2)" />
+        <item itemvalue="Application.Client (2)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0ad32f0c-101e-471b-b9db-d53186f7e2d7" name="Default Changelist" comment="" />
+      <created>1571381676702</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1571381676702</updated>
+      <workItem from="1571381679267" duration="1490000" />
+      <workItem from="1571466420206" duration="5342000" />
+      <workItem from="1571711820439" duration="2521000" />
+      <workItem from="1572079051308" duration="5000" />
+      <workItem from="1572417224644" duration="657000" />
+      <workItem from="1572573427481" duration="201000" />
+      <workItem from="1572573727425" duration="4702000" />
+      <workItem from="1572830032041" duration="5354000" />
+      <workItem from="1573001511577" duration="29959000" />
+      <workItem from="1573520837171" duration="55052000" />
+      <workItem from="1574038375993" duration="13643000" />
+      <workItem from="1574308011841" duration="301000" />
+      <workItem from="1574308322701" duration="3548000" />
+      <workItem from="1574324196540" duration="1739000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="124514000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1912" y="-8" width="1616" height="876" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49590164" visible="true" weight="0.26036268" />
+      <window_info id="Structure" order="1" sideWeight="0.5026316" side_tool="true" weight="0.2071525" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" sideWeight="0.5039474" side_tool="true" weight="0.2537112" />
+      <window_info id="Web" order="7" sideWeight="0.50409836" side_tool="true" weight="0.27048022" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32894737" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32777777" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Application Servers" order="7" weight="0.32894737" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32689655" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.5416667" />
+      <window_info anchor="bottom" id="Java Enterprise" order="12" weight="0.32894737" />
+      <window_info anchor="bottom" id="Database Changes" order="13" />
+      <window_info anchor="bottom" id="Version Control" order="14" />
+      <window_info anchor="bottom" id="File Transfer" order="15" weight="0.32916668" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="1" weight="0.25" />
+      <window_info anchor="right" x="573" y="69" width="323" height="725" id="Remote Host" order="2" weight="0.22797927" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.32909605" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" weight="0.32980227" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Ant Build" order="9" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/lin/pattern/Creational/abstractfactory/skin/SpringSkinFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding>
+            <element signature="e#158#159#0" expanded="true" />
+            <element signature="e#185#186#0" expanded="true" />
+            <element signature="e#241#242#0" expanded="true" />
+            <element signature="e#268#269#0" expanded="true" />
+            <element signature="e#322#323#0" expanded="true" />
+            <element signature="e#349#350#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lin/pattern/Creational/abstractfactory/skin/XMLUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="18" column="131" selection-start-line="18" selection-start-column="131" selection-end-line="18" selection-end-column="131" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lin/pattern/Creational/abstractfactory/skin/client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="18" lean-forward="true" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lin/pattern/Creational/abstractfactory/pattern/pattern.java" />
+    <entry file="file://$PROJECT_DIR$/src/lin/pattern/Creational/abstractfactory/Summary.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="427">
+          <caret line="21" column="7" lean-forward="true" selection-start-line="21" selection-start-column="7" selection-end-line="21" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lin/pattern/Creational/abstractfactory/pattern/AbstractProductB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lin/pattern/Creational/abstractfactory/pattern/ConcreteProductA1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lin/pattern/Creational/abstractfactory/pattern/ConcreteProductA2.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lin/pattern/Creational/abstractfactory/pattern/ConcreteProductB1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="58" selection-start-line="2" selection-start-column="58" selection-end-line="2" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lin/pattern/Creational/abstractfactory/skin/SkinFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="23" lean-forward="true" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lin/pattern/Creational/abstractfactory/pattern/ConcreteProductB2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lin/pattern/Creational/abstractfactory/pattern/ConcreteFactory1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" column="46" selection-start-line="10" selection-start-column="46" selection-end-line="10" selection-end-column="46" />
+          <folding>
+            <element signature="e#166#167#0" expanded="true" />
+            <element signature="e#193#194#0" expanded="true" />
+            <element signature="e#282#283#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lin/pattern/Creational/abstractfactory/pattern/Factory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lin/pattern/Creational/abstractfactory/pattern/ConcreteFactory2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding>
+            <element signature="e#167#168#0" expanded="true" />
+            <element signature="e#194#195#0" expanded="true" />
+            <element signature="e#256#257#0" expanded="true" />
+            <element signature="e#283#284#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/lin.pattern.Creational.abstractfactory.skin">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>lin.pattern.Creational.abstractfactory.skin</OriginalElement>
+          <nodes>
+            <node x="1159.660559006211" y="418.0">lin.pattern.Creational.abstractfactory.skin.SpringSkinFactory</node>
+            <node x="920.6605590062111" y="189.0">lin.pattern.Creational.abstractfactory.skin.SummerComboBox</node>
+            <node x="633.6605590062111" y="163.0">lin.pattern.Creational.abstractfactory.skin.SkinFactory</node>
+            <node x="1437.208695652174" y="189.0">lin.pattern.Creational.abstractfactory.skin.SummerButton</node>
+            <node x="872.6605590062111" y="418.0">lin.pattern.Creational.abstractfactory.skin.SummerSkinFactory</node>
+            <node x="1207.660559006211" y="189.0">lin.pattern.Creational.abstractfactory.skin.SpringComboBox</node>
+            <node x="0.0" y="189.0">lin.pattern.Creational.abstractfactory.skin.XMLUtil</node>
+            <node x="233.6605590062111" y="189.0">lin.pattern.Creational.abstractfactory.skin.SummerTextField</node>
+            <node x="290.71956521739116" y="0.0">lin.pattern.Creational.abstractfactory.skin.TextField</node>
+            <node x="1015.2195652173912" y="0.0">lin.pattern.Creational.abstractfactory.skin.ComboBox</node>
+            <node x="528.6605590062111" y="444.0">lin.pattern.Creational.abstractfactory.skin.client</node>
+            <node x="1415.133850931677" y="0.0">lin.pattern.Creational.abstractfactory.skin.Button</node>
+            <node x="1642.8357142857142" y="189.0">lin.pattern.Creational.abstractfactory.skin.SpringButton</node>
+            <node x="433.6605590062111" y="189.0">lin.pattern.Creational.abstractfactory.skin.SpringTextField</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="lin.pattern.Creational.abstractfactory.skin.SummerButton" target="lin.pattern.Creational.abstractfactory.skin.Button">
+              <point x="0.0" y="-31.5" />
+              <point x="1514.708695652174" y="143.0" />
+              <point x="1504.383850931677" y="143.0" />
+              <point x="12.75" y="31.5" />
+            </edge>
+            <edge source="lin.pattern.Creational.abstractfactory.skin.client" target="lin.pattern.Creational.abstractfactory.skin.XMLUtil">
+              <point x="-75.59999999999991" y="-31.5" />
+              <point x="547.5605590062112" y="398.0" />
+              <point x="88.5" y="398.0" />
+              <point x="0.0" y="31.5" />
+            </edge>
+            <edge source="lin.pattern.Creational.abstractfactory.skin.SpringSkinFactory" target="lin.pattern.Creational.abstractfactory.skin.SpringComboBox">
+              <point x="0.0" y="-57.5" />
+              <point x="0.0" y="31.5" />
+            </edge>
+            <edge source="lin.pattern.Creational.abstractfactory.skin.SpringSkinFactory" target="lin.pattern.Creational.abstractfactory.skin.TextField">
+              <point x="-114.42857142857142" y="-57.5" />
+              <point x="1178.7319875776398" y="318.0" />
+              <point x="423.1605590062111" y="318.0" />
+              <point x="423.1605590062111" y="143.0" />
+              <point x="379.96956521739116" y="143.0" />
+              <point x="12.75" y="31.5" />
+            </edge>
+            <edge source="lin.pattern.Creational.abstractfactory.skin.SpringComboBox" target="lin.pattern.Creational.abstractfactory.skin.ComboBox">
+              <point x="0.0" y="-31.5" />
+              <point x="1293.160559006211" y="103.0" />
+              <point x="1129.9695652173912" y="103.0" />
+              <point x="38.25" y="31.5" />
+            </edge>
+            <edge source="lin.pattern.Creational.abstractfactory.skin.SummerSkinFactory" target="lin.pattern.Creational.abstractfactory.skin.SummerTextField">
+              <point x="-76.28571428571422" y="-57.5" />
+              <point x="929.8748447204969" y="338.0" />
+              <point x="323.1605590062111" y="338.0" />
+              <point x="0.0" y="31.5" />
+            </edge>
+            <edge source="lin.pattern.Creational.abstractfactory.skin.SkinFactory" target="lin.pattern.Creational.abstractfactory.skin.TextField">
+              <point x="-89.0" y="-57.5" />
+              <point x="678.1605590062111" y="83.0" />
+              <point x="430.96956521739116" y="83.0" />
+              <point x="63.75" y="31.5" />
+            </edge>
+            <edge source="lin.pattern.Creational.abstractfactory.skin.SpringSkinFactory" target="lin.pattern.Creational.abstractfactory.skin.ComboBox">
+              <point x="38.14285714285717" y="-57.5" />
+              <point x="1331.3034161490682" y="348.0" />
+              <point x="1389.160559006211" y="348.0" />
+              <point x="1389.160559006211" y="93.0" />
+              <point x="1155.4695652173912" y="93.0" />
+              <point x="63.75" y="31.5" />
+            </edge>
+            <edge source="lin.pattern.Creational.abstractfactory.skin.SummerSkinFactory" target="lin.pattern.Creational.abstractfactory.skin.Button">
+              <point x="76.28571428571422" y="-57.5" />
+              <point x="1082.4462732919253" y="368.0" />
+              <point x="1426.708695652174" y="368.0" />
+              <point x="1426.708695652174" y="143.0" />
+              <point x="1478.883850931677" y="143.0" />
+              <point x="-12.75" y="31.5" />
+            </edge>
+            <edge source="lin.pattern.Creational.abstractfactory.skin.SpringButton" target="lin.pattern.Creational.abstractfactory.skin.Button">
+              <point x="0.0" y="-31.5" />
+              <point x="1720.3357142857142" y="133.0" />
+              <point x="1555.383850931677" y="133.0" />
+              <point x="63.75" y="31.5" />
+            </edge>
+            <edge source="lin.pattern.Creational.abstractfactory.skin.SummerSkinFactory" target="lin.pattern.Creational.abstractfactory.skin.SummerComboBox">
+              <point x="0.0" y="-57.5" />
+              <point x="0.0" y="31.5" />
+            </edge>
+            <edge source="lin.pattern.Creational.abstractfactory.skin.SpringSkinFactory" target="lin.pattern.Creational.abstractfactory.skin.SkinFactory">
+              <point x="-38.14285714285711" y="-57.5" />
+              <point x="1255.017701863354" y="298.0" />
+              <point x="856.1605590062111" y="298.0" />
+              <point x="89.0" y="57.5" />
+            </edge>
+            <edge source="lin.pattern.Creational.abstractfactory.skin.client" target="lin.pattern.Creational.abstractfactory.skin.ComboBox">
+              <point x="0.0" y="-31.5" />
+              <point x="623.1605590062111" y="93.0" />
+              <point x="1027.9695652173912" y="93.0" />
+              <point x="-63.75" y="31.5" />
+            </edge>
+            <edge source="lin.pattern.Creational.abstractfactory.skin.SpringTextField" target="lin.pattern.Creational.abstractfactory.skin.TextField">
+              <point x="5.6843418860808015E-14" y="-31.5" />
+              <point x="523.1605590062111" y="133.0" />
+              <point x="405.46956521739116" y="133.0" />
+              <point x="38.25" y="31.5" />
+            </edge>
+            <edge source="lin.pattern.Creational.abstractfactory.skin.SummerSkinFactory" target="lin.pattern.Creational.abstractfactory.skin.SkinFactory">
+              <point x="-38.14285714285711" y="-57.5" />
+              <point x="968.017701863354" y="328.0" />
+              <point x="767.1605590062111" y="328.0" />
+              <point x="0.0" y="57.5" />
+            </edge>
+            <edge source="lin.pattern.Creational.abstractfactory.skin.SpringSkinFactory" target="lin.pattern.Creational.abstractfactory.skin.Button">
+              <point x="76.28571428571428" y="-57.5" />
+              <point x="1369.4462732919253" y="388.0" />
+              <point x="1632.3357142857142" y="388.0" />
+              <point x="1632.3357142857142" y="143.0" />
+              <point x="1529.883850931677" y="143.0" />
+              <point x="38.25" y="31.5" />
+            </edge>
+            <edge source="lin.pattern.Creational.abstractfactory.skin.SpringSkinFactory" target="lin.pattern.Creational.abstractfactory.skin.SpringButton">
+              <point x="114.42857142857144" y="-57.5" />
+              <point x="1407.5891304347824" y="398.0" />
+              <point x="1720.3357142857142" y="398.0" />
+              <point x="0.0" y="31.5" />
+            </edge>
+            <edge source="lin.pattern.Creational.abstractfactory.skin.SpringSkinFactory" target="lin.pattern.Creational.abstractfactory.skin.SpringTextField">
+              <point x="-76.28571428571428" y="-57.5" />
+              <point x="1216.8748447204969" y="308.0" />
+              <point x="523.1605590062111" y="308.0" />
+              <point x="0.0" y="31.5" />
+            </edge>
+            <edge source="lin.pattern.Creational.abstractfactory.skin.SummerTextField" target="lin.pattern.Creational.abstractfactory.skin.TextField">
+              <point x="0.0" y="-31.5" />
+              <point x="323.1605590062111" y="143.0" />
+              <point x="354.46956521739116" y="143.0" />
+              <point x="-12.75" y="31.5" />
+            </edge>
+            <edge source="lin.pattern.Creational.abstractfactory.skin.client" target="lin.pattern.Creational.abstractfactory.skin.SkinFactory">
+              <point x="37.799999999999955" y="-31.5" />
+              <point x="660.960559006211" y="398.0" />
+              <point x="678.1605590062111" y="398.0" />
+              <point x="-89.0" y="57.5" />
+            </edge>
+            <edge source="lin.pattern.Creational.abstractfactory.skin.SummerSkinFactory" target="lin.pattern.Creational.abstractfactory.skin.TextField">
+              <point x="-114.42857142857144" y="-57.5" />
+              <point x="891.7319875776396" y="348.0" />
+              <point x="223.1605590062111" y="348.0" />
+              <point x="223.1605590062111" y="133.0" />
+              <point x="328.96956521739116" y="133.0" />
+              <point x="-38.25" y="31.5" />
+            </edge>
+            <edge source="lin.pattern.Creational.abstractfactory.skin.SkinFactory" target="lin.pattern.Creational.abstractfactory.skin.ComboBox">
+              <point x="0.0" y="-57.5" />
+              <point x="767.1605590062111" y="103.0" />
+              <point x="1053.4695652173912" y="103.0" />
+              <point x="-38.25" y="31.5" />
+            </edge>
+            <edge source="lin.pattern.Creational.abstractfactory.skin.SummerSkinFactory" target="lin.pattern.Creational.abstractfactory.skin.ComboBox">
+              <point x="38.14285714285711" y="-57.5" />
+              <point x="1044.3034161490682" y="348.0" />
+              <point x="1149.660559006211" y="348.0" />
+              <point x="1149.660559006211" y="113.0" />
+              <point x="1104.4695652173912" y="113.0" />
+              <point x="12.75" y="31.5" />
+            </edge>
+            <edge source="lin.pattern.Creational.abstractfactory.skin.client" target="lin.pattern.Creational.abstractfactory.skin.Button">
+              <point x="75.59999999999991" y="-31.5" />
+              <point x="698.760559006211" y="358.0" />
+              <point x="1400.160559006211" y="358.0" />
+              <point x="1400.160559006211" y="133.0" />
+              <point x="1453.383850931677" y="133.0" />
+              <point x="-38.25" y="31.5" />
+            </edge>
+            <edge source="lin.pattern.Creational.abstractfactory.skin.SkinFactory" target="lin.pattern.Creational.abstractfactory.skin.Button">
+              <point x="89.0" y="-57.5" />
+              <point x="856.1605590062111" y="123.0" />
+              <point x="1427.883850931677" y="123.0" />
+              <point x="-63.75" y="31.5" />
+            </edge>
+            <edge source="lin.pattern.Creational.abstractfactory.skin.client" target="lin.pattern.Creational.abstractfactory.skin.TextField">
+              <point x="-37.799999999999955" y="-31.5" />
+              <point x="585.3605590062111" y="388.0" />
+              <point x="187.5" y="388.0" />
+              <point x="187.5" y="123.0" />
+              <point x="303.46956521739116" y="123.0" />
+              <point x="-63.75" y="31.5" />
+            </edge>
+            <edge source="lin.pattern.Creational.abstractfactory.skin.SummerComboBox" target="lin.pattern.Creational.abstractfactory.skin.ComboBox">
+              <point x="0.0" y="-31.5" />
+              <point x="1006.1605590062111" y="113.0" />
+              <point x="1078.9695652173912" y="113.0" />
+              <point x="-12.75" y="31.5" />
+            </edge>
+            <edge source="lin.pattern.Creational.abstractfactory.skin.SummerSkinFactory" target="lin.pattern.Creational.abstractfactory.skin.SummerButton">
+              <point x="114.42857142857156" y="-57.5" />
+              <point x="1120.5891304347826" y="378.0" />
+              <point x="1514.708695652174" y="378.0" />
+              <point x="0.0" y="31.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="918.0" y="123.0" />
+          <SelectedNodes>
+            <node>lin.pattern.Creational.abstractfactory.skin.SpringSkinFactory</node>
+          </SelectedNodes>
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Constructors</Category>
+            <Category>Methods</Category>
+            <Category>Properties</Category>
+            <Category>Inner Classes</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/lin.pattern.Creational">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>lin.pattern.Creational</OriginalElement>
+          <nodes>
+            <node x="" y="">lin.pattern.Creational.factorymethod</node>
+            <node x="" y="">lin.pattern.Creational.simplefactory</node>
+            <node x="" y="">lin.pattern.Creational.singleton</node>
+            <node x="" y="">lin.pattern.Creational.abstractfactory</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="112.0" y="142.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Constructors</Category>
+            <Category>Methods</Category>
+            <Category>Properties</Category>
+            <Category>Inner Classes</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lin/pattern/Creational/singleton/LoadBalance/LoadBalance.gif">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="uml://JAVA/lin.pattern.Creational.singleton.pattern">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>lin.pattern.Creational.singleton.pattern</OriginalElement>
+          <nodes>
+            <node x="" y="">lin.pattern.Creational.singleton.pattern.EagerSingleton</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="53.0" y="126.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Constructors</Category>
+            <Category>Methods</Category>
+            <Category>Properties</Category>
+            <Category>Inner Classes</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/lin.pattern.Creational.singleton.LoadBalance">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>lin.pattern.Creational.singleton.LoadBalance</OriginalElement>
+          <nodes>
+            <node x="" y="">lin.pattern.Creational.singleton.LoadBalance.Client</node>
+            <node x="" y="">lin.pattern.Creational.singleton.LoadBalance.LoadBalance</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="41.0" y="240.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Constructors</Category>
+            <Category>Methods</Category>
+            <Category>Properties</Category>
+            <Category>Inner Classes</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lin/pattern/Creational/singleton/Singleton.gif">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lin/pattern/Creational/singleton/aim.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lin/pattern/Creational/Structural/pattern.gif">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lin/pattern/Creational/singleton/Task.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lin/pattern/Creational/Structural/pattern.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="575">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lin/pattern/Creational/singleton/LoadBalance/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="301">
+          <caret line="19" column="39" lean-forward="true" selection-start-line="19" selection-start-column="39" selection-end-line="19" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lin/pattern/Creational/singleton/LoadBalance/LoadBalance.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="38" column="18" selection-start-line="38" selection-start-column="18" selection-end-line="38" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#369#370#0" expanded="true" />
+            <element signature="e#413#414#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lin/pattern/Creational/singleton/pattern/EagerSingleton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lin/pattern/Creational/simplefactory/ChartDisplay/HistogramChart.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lin/pattern/Creational/simplefactory/ChartDisplay/LineChart.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lin/pattern/Creational/simplefactory/ChartDisplay/PieChart.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lin/pattern/Creational/simplefactory/ChartDisplay/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lin/pattern/Creational/simplefactory/ChartDisplay/ChartFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lin/pattern/Creational/Prototype/problem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/lin.pattern.Creational.abstractfactory.pattern">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>lin.pattern.Creational.abstractfactory.pattern</OriginalElement>
+          <nodes>
+            <node x="997.5833333333333" y="0.0">lin.pattern.Creational.abstractfactory.pattern.AbstractProductA</node>
+            <node x="540.71875" y="107.0">lin.pattern.Creational.abstractfactory.pattern.Factory</node>
+            <node x="241.58333333333343" y="0.0">lin.pattern.Creational.abstractfactory.pattern.AbstractProductB</node>
+            <node x="540.71875" y="256.0">lin.pattern.Creational.abstractfactory.pattern.ConcreteFactory1</node>
+            <node x="1193.1927083333335" y="133.0">lin.pattern.Creational.abstractfactory.pattern.ConcreteProductA2</node>
+            <node x="46.359375" y="133.0">lin.pattern.Creational.abstractfactory.pattern.ConcreteProductB1</node>
+            <node x="317.5677083333333" y="269.0">lin.pattern.Creational.abstractfactory.pattern.Client</node>
+            <node x="870.484375" y="256.0">lin.pattern.Creational.abstractfactory.pattern.ConcreteFactory2</node>
+            <node x="261.359375" y="133.0">lin.pattern.Creational.abstractfactory.pattern.ConcreteProductB2</node>
+            <node x="978.1927083333335" y="133.0">lin.pattern.Creational.abstractfactory.pattern.ConcreteProductA1</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="lin.pattern.Creational.abstractfactory.pattern.ConcreteProductB1" target="lin.pattern.Creational.abstractfactory.pattern.AbstractProductB">
+              <point x="0.0" y="-18.5" />
+              <point x="143.859375" y="87.0" />
+              <point x="319.50000000000017" y="87.0" />
+              <point x="-15.583333333333258" y="18.5" />
+            </edge>
+            <edge source="lin.pattern.Creational.abstractfactory.pattern.ConcreteProductA1" target="lin.pattern.Creational.abstractfactory.pattern.AbstractProductA">
+              <point x="0.0" y="-18.5" />
+              <point x="-15.583333333333314" y="18.5" />
+            </edge>
+            <edge source="lin.pattern.Creational.abstractfactory.pattern.ConcreteProductB2" target="lin.pattern.Creational.abstractfactory.pattern.AbstractProductB">
+              <point x="0.0" y="-18.5" />
+              <point x="358.859375" y="87.0" />
+              <point x="350.6666666666667" y="87.0" />
+              <point x="15.583333333333258" y="18.5" />
+            </edge>
+            <edge source="lin.pattern.Creational.abstractfactory.pattern.Client" target="lin.pattern.Creational.abstractfactory.pattern.AbstractProductB">
+              <point x="-63.0" y="-31.5" />
+              <point x="349.0677083333333" y="236.0" />
+              <point x="0.0" y="236.0" />
+              <point x="0.0" y="67.0" />
+              <point x="257.1666666666667" y="67.0" />
+              <point x="-77.91666666666674" y="18.5" />
+            </edge>
+            <edge source="lin.pattern.Creational.abstractfactory.pattern.ConcreteFactory1" target="lin.pattern.Creational.abstractfactory.pattern.AbstractProductA">
+              <point x="101.33333333333337" y="-44.5" />
+              <point x="794.0520833333334" y="226.0" />
+              <point x="1398.6927083333335" y="226.0" />
+              <point x="1398.6927083333335" y="77.0" />
+              <point x="1137.8333333333333" y="77.0" />
+              <point x="46.75" y="18.5" />
+            </edge>
+            <edge source="lin.pattern.Creational.abstractfactory.pattern.ConcreteFactory2" target="lin.pattern.Creational.abstractfactory.pattern.AbstractProductB">
+              <point x="0.0" y="-44.5" />
+              <point x="1022.484375" y="216.0" />
+              <point x="967.6927083333335" y="216.0" />
+              <point x="967.6927083333335" y="57.0" />
+              <point x="413.00000000000017" y="57.0" />
+              <point x="77.91666666666674" y="18.5" />
+            </edge>
+            <edge source="lin.pattern.Creational.abstractfactory.pattern.ConcreteProductA2" target="lin.pattern.Creational.abstractfactory.pattern.AbstractProductA">
+              <point x="0.0" y="-18.5" />
+              <point x="1290.6927083333335" y="87.0" />
+              <point x="1106.6666666666667" y="87.0" />
+              <point x="15.583333333333371" y="18.5" />
+            </edge>
+            <edge source="lin.pattern.Creational.abstractfactory.pattern.ConcreteFactory1" target="lin.pattern.Creational.abstractfactory.pattern.AbstractProductB">
+              <point x="-101.33333333333326" y="-44.5" />
+              <point x="591.3854166666667" y="226.0" />
+              <point x="35.859375" y="226.0" />
+              <point x="35.859375" y="77.0" />
+              <point x="288.3333333333334" y="77.0" />
+              <point x="-46.75" y="18.5" />
+            </edge>
+            <edge source="lin.pattern.Creational.abstractfactory.pattern.Client" target="lin.pattern.Creational.abstractfactory.pattern.AbstractProductA">
+              <point x="0.0" y="-31.5" />
+              <point x="412.0677083333333" y="236.0" />
+              <point x="466.85937499999994" y="236.0" />
+              <point x="466.85937499999994" y="77.0" />
+              <point x="1013.1666666666666" y="77.0" />
+              <point x="-77.91666666666669" y="18.5" />
+            </edge>
+            <edge source="lin.pattern.Creational.abstractfactory.pattern.ConcreteFactory2" target="lin.pattern.Creational.abstractfactory.pattern.AbstractProductA">
+              <point x="101.33333333333337" y="-44.5" />
+              <point x="1123.8177083333335" y="236.0" />
+              <point x="1464.484375" y="236.0" />
+              <point x="1464.484375" y="67.0" />
+              <point x="1169.0" y="67.0" />
+              <point x="77.91666666666674" y="18.5" />
+            </edge>
+            <edge source="lin.pattern.Creational.abstractfactory.pattern.ConcreteFactory1" target="lin.pattern.Creational.abstractfactory.pattern.Factory">
+              <point x="0.0" y="-44.5" />
+              <point x="0.0" y="44.5" />
+            </edge>
+            <edge source="lin.pattern.Creational.abstractfactory.pattern.ConcreteFactory2" target="lin.pattern.Creational.abstractfactory.pattern.Factory">
+              <point x="-101.33333333333331" y="-44.5" />
+              <point x="921.1510416666667" y="216.0" />
+              <point x="794.0520833333333" y="216.0" />
+              <point x="101.33333333333326" y="44.5" />
+            </edge>
+            <edge source="lin.pattern.Creational.abstractfactory.pattern.Client" target="lin.pattern.Creational.abstractfactory.pattern.Factory">
+              <point x="63.0" y="-31.5" />
+              <point x="475.0677083333333" y="236.0" />
+              <point x="591.3854166666666" y="236.0" />
+              <point x="-101.33333333333337" y="44.5" />
+            </edge>
+            <edge source="lin.pattern.Creational.abstractfactory.pattern.Factory" target="lin.pattern.Creational.abstractfactory.pattern.AbstractProductA">
+              <point x="76.0" y="-44.5" />
+              <point x="768.71875" y="87.0" />
+              <point x="1044.3333333333333" y="87.0" />
+              <point x="-46.75" y="18.5" />
+            </edge>
+            <edge source="lin.pattern.Creational.abstractfactory.pattern.Factory" target="lin.pattern.Creational.abstractfactory.pattern.AbstractProductB">
+              <point x="-76.0" y="-44.5" />
+              <point x="616.71875" y="67.0" />
+              <point x="381.8333333333334" y="67.0" />
+              <point x="46.75" y="18.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="434.0" y="178.0" />
+          <SelectedNodes>
+            <node>lin.pattern.Creational.abstractfactory.pattern.ConcreteProductA1</node>
+          </SelectedNodes>
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Constructors</Category>
+            <Category>Methods</Category>
+            <Category>Properties</Category>
+            <Category>Inner Classes</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lin/pattern/Creational/Prototype/PrototypePattren.gif">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lin/pattern/Creational/simplefactory/ChartDisplay/XMLUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="23" column="28" selection-start-line="22" selection-end-line="23" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/girl.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/jdbc/jdbcConnection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="800">
+          <caret line="32" column="60" selection-start-line="32" selection-start-column="60" selection-end-line="32" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JavaScript-modules-diagram/C:/IdeaWorkspace/Dome/src/lin/pattern/Creational/abstractfactory/pattern">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JavaScript-modules-diagram</ID>
+          <OriginalElement>$PROJECT_DIR$/src/lin/pattern/Creational/abstractfactory/pattern</OriginalElement>
+          <nodes />
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="578.0" y="328.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>All</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>Details</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1874">
+          <caret line="77" column="76" selection-start-line="77" selection-start-column="76" selection-end-line="77" selection-end-column="76" />
+          <folding>
+            <element signature="e#0#2117#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out/production/Dome/com/JDBC/jdbcConnection.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="13" column="29" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lin/pattern/Creational/abstractfactory/pattern/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lin/pattern/Creational/factorymethod/LoggerFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lin/pattern/Creational/factorymethod/problem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lin/pattern/Creational/factorymethod/Summary.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="703">
+          <caret line="28" column="6" selection-start-line="28" selection-start-column="6" selection-end-line="28" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dome.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/JavaBean/javaBeanTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="23" column="42" selection-start-line="23" selection-start-column="42" selection-end-line="23" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/JavaBean/Person.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/JDBC/jdbcConnection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1350">
+          <caret line="54" column="23" selection-start-line="54" selection-start-column="23" selection-end-line="54" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lin/pattern/Creational/abstractfactory/pattern/AbstractProductA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3">
+          <caret column="39" selection-start-column="39" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lin/pattern/Creational/factorymethod/Logger/client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="6" column="24" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>Dome:war exploded</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Dome</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

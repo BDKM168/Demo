@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<config>
+<className>lin.pattern.Creational.factorymethod.Logger.FileLoggerFactory</className>
+</config>
