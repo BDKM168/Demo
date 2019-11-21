@@ -6,10 +6,8 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0ad32f0c-101e-471b-b9db-d53186f7e2d7" name="Default Changelist" comment="Correct">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lin/pattern/Creational/Structural/pattern.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lin/pattern/Creational/Structural/pattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lin/pattern/Creational/Builder/pattern.java" afterDir="false" />
+    <list default="true" id="0ad32f0c-101e-471b-b9db-d53186f7e2d7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/lin/pattern/Structural/pattern.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -49,11 +47,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/lin/pattern/Creational/Builder/pattern.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="292">
               <caret line="14" column="6" lean-forward="true" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/lin/pattern/Structural/pattern.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="125">
+              <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -121,8 +128,8 @@
         <option value="FxmlFile" />
         <option value="config" />
         <option value="Interface" />
-        <option value="Class" />
         <option value="HTML File" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -178,12 +185,12 @@
         <option value="$PROJECT_DIR$/src/lin/pattern/Creational/singleton/LoadBalance/Client.java" />
         <option value="$PROJECT_DIR$/src/lin/pattern/Creational/singleton/pattern/EagerSingleton.java" />
         <option value="$PROJECT_DIR$/src/lin/pattern/Creational/singleton/aim.java" />
-        <option value="$PROJECT_DIR$/src/lin/pattern/Structural/pattern.java" />
         <option value="$PROJECT_DIR$/src/lin/pattern/Creational/Structural/pattern.java" />
         <option value="$PROJECT_DIR$/src/lin/pattern/Creational/Prototype/problem.java" />
         <option value="$PROJECT_DIR$/src/lin/pattern/Creational/simplefactory/ChartDisplay/XMLUtil.java" />
         <option value="$PROJECT_DIR$/src/cn/new.html" />
         <option value="$PROJECT_DIR$/src/lin/pattern/Creational/factorymethod/LoggerFactory.java" />
+        <option value="$PROJECT_DIR$/src/lin/pattern/Structural/pattern.java" />
       </list>
     </option>
   </component>
@@ -247,15 +254,7 @@
               <item name="Dome" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="pattern" type="462c0819:PsiDirectoryNode" />
-              <item name="Creational" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Dome" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Dome" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="pattern" type="462c0819:PsiDirectoryNode" />
-              <item name="Creational" type="462c0819:PsiDirectoryNode" />
-              <item name="Builder" type="462c0819:PsiDirectoryNode" />
+              <item name="Structural" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Dome" type="b2602c69:ProjectViewProjectNode" />
@@ -354,8 +353,12 @@
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="lin.pattern.Creational.abstractfactory.skin" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\IdeaWorkspace\Dome\src\lin\pattern\Creational\Builder" />
+      <recent name="C:\IdeaWorkspace\Dome\src\lin\pattern\Structural" />
+      <recent name="C:\IdeaWorkspace\Dome\src\lin\pattern\Creational\Prototype" />
+      <recent name="C:\IdeaWorkspace\Dome\src\lin\pattern\Creational\singleton\LoadBalance" />
+      <recent name="C:\IdeaWorkspace\Dome\src\lin\pattern\Creational\singleton" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\IdeaWorkspace\Dome\src\lin\pattern\Creational\abstractfactory\skin" />
@@ -369,12 +372,8 @@
       <recent name="lin.pattern.Creational.simplefactory.ChartDisplay" />
       <recent name="com.JavaBean.JDBC" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\IdeaWorkspace\Dome\src\lin\pattern\Structural" />
-      <recent name="C:\IdeaWorkspace\Dome\src\lin\pattern\Creational\Builder" />
-      <recent name="C:\IdeaWorkspace\Dome\src\lin\pattern\Creational\Prototype" />
-      <recent name="C:\IdeaWorkspace\Dome\src\lin\pattern\Creational\singleton\LoadBalance" />
-      <recent name="C:\IdeaWorkspace\Dome\src\lin\pattern\Creational\singleton" />
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="lin.pattern.Creational.abstractfactory.skin" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -621,7 +620,7 @@
       <workItem from="1574038375993" duration="13643000" />
       <workItem from="1574308011841" duration="301000" />
       <workItem from="1574308322701" duration="3548000" />
-      <workItem from="1574324196540" duration="2863000" />
+      <workItem from="1574324196540" duration="2991000" />
     </task>
     <task id="LOCAL-00001" summary="DailyWork">
       <created>1574326128012</created>
@@ -637,17 +636,24 @@
       <option name="project" value="LOCAL" />
       <updated>1574326779174</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Correct">
+      <created>1574327102779</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1574327102779</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="125638000" />
+    <option name="totallyTimeSpent" value="125766000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1616" height="876" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49590164" visible="true" weight="0.26036268" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49590164" visible="true" weight="0.26036268" />
       <window_info id="Structure" order="1" sideWeight="0.5026316" side_tool="true" weight="0.2071525" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -699,16 +705,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/lin/pattern/Creational/abstractfactory/skin/XMLUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="18" column="131" selection-start-line="18" selection-start-column="131" selection-end-line="18" selection-end-column="131" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/lin/pattern/Creational/abstractfactory/skin/client.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
@@ -1443,6 +1439,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="292">
           <caret line="14" column="6" lean-forward="true" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lin/pattern/Structural/pattern.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
         </state>
       </provider>
     </entry>
