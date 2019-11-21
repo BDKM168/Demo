@@ -7,7 +7,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0ad32f0c-101e-471b-b9db-d53186f7e2d7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/lin/pattern/Structural/pattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lin/ML/base.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -56,8 +56,17 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/lin/pattern/Structural/pattern.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="125">
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/lin/ML/base.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="125">
               <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
@@ -68,15 +77,6 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/lin/pattern/Creational/Builder/pattern.gif">
           <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/lin/pattern/Creational/factorymethod/Summary.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="703">
-              <caret line="28" column="6" selection-start-line="28" selection-start-column="6" selection-end-line="28" selection-end-column="6" />
-            </state>
-          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -140,7 +140,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/lin/pattern/Creational/factorymethod/pattern/FactoryPattern.java" />
         <option value="$PROJECT_DIR$/src/lin/pattern/Creational/factorymethod/Logger/DatabaseLogger.java" />
         <option value="$PROJECT_DIR$/src/lin/pattern/Creational/factorymethod/Logger/FileLogger.java" />
         <option value="$PROJECT_DIR$/src/lin/pattern/Creational/factorymethod/Logger/XMLUtil.java" />
@@ -191,6 +190,7 @@
         <option value="$PROJECT_DIR$/src/cn/new.html" />
         <option value="$PROJECT_DIR$/src/lin/pattern/Creational/factorymethod/LoggerFactory.java" />
         <option value="$PROJECT_DIR$/src/lin/pattern/Structural/pattern.java" />
+        <option value="$PROJECT_DIR$/src/lin/ML/base.java" />
       </list>
     </option>
   </component>
@@ -235,26 +235,14 @@
               <item name="Dome" type="b2602c69:ProjectViewProjectNode" />
               <item name="Dome" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="cn" type="462c0819:PsiDirectoryNode" />
+              <item name="lin" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Dome" type="b2602c69:ProjectViewProjectNode" />
               <item name="Dome" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Dome" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Dome" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="pattern" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Dome" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Dome" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="pattern" type="462c0819:PsiDirectoryNode" />
-              <item name="Structural" type="462c0819:PsiDirectoryNode" />
+              <item name="lin" type="462c0819:PsiDirectoryNode" />
+              <item name="ML" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Dome" type="b2602c69:ProjectViewProjectNode" />
@@ -620,7 +608,7 @@
       <workItem from="1574038375993" duration="13643000" />
       <workItem from="1574308011841" duration="301000" />
       <workItem from="1574308322701" duration="3548000" />
-      <workItem from="1574324196540" duration="2991000" />
+      <workItem from="1574324196540" duration="3134000" />
     </task>
     <task id="LOCAL-00001" summary="DailyWork">
       <created>1574326128012</created>
@@ -643,11 +631,18 @@
       <option name="project" value="LOCAL" />
       <updated>1574327102779</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Correct">
+      <created>1574327251948</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1574327251948</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="125766000" />
+    <option name="totallyTimeSpent" value="125909000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1616" height="876" extended-state="6" />
@@ -675,7 +670,7 @@
       <window_info anchor="bottom" id="Messages" order="11" weight="0.5416667" />
       <window_info anchor="bottom" id="Java Enterprise" order="12" weight="0.32894737" />
       <window_info anchor="bottom" id="Database Changes" order="13" />
-      <window_info anchor="bottom" id="Version Control" order="14" />
+      <window_info anchor="bottom" id="Version Control" order="14" weight="0.32916668" />
       <window_info anchor="bottom" id="File Transfer" order="15" weight="0.32916668" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="1" weight="0.25" />
@@ -705,13 +700,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/lin/pattern/Creational/abstractfactory/skin/client.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="6" column="18" lean-forward="true" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/lin/pattern/Creational/abstractfactory/pattern/pattern.java" />
     <entry file="file://$PROJECT_DIR$/src/lin/pattern/Creational/abstractfactory/Summary.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -1443,6 +1431,13 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/lin/pattern/Structural/pattern.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lin/ML/base.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="125">
           <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
