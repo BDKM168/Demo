@@ -6,10 +6,7 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0ad32f0c-101e-471b-b9db-d53186f7e2d7" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lin/ML/base.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lin/ML/base.java" afterDir="false" />
-    </list>
+    <list default="true" id="0ad32f0c-101e-471b-b9db-d53186f7e2d7" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -48,21 +45,21 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="uml://JAVA/lin.pattern.Creational.factorymethod.Logger">
           <provider selected="true" editor-type-id="UmlEditorProvider">
             <state>
               <ID>JAVA</ID>
               <OriginalElement>lin.pattern.Creational.factorymethod.Logger</OriginalElement>
               <nodes>
-                <node x="490.70166666666665" y="152.0">lin.pattern.Creational.factorymethod.Logger.XMLUtil</node>
-                <node x="687.7016666666666" y="152.0">lin.pattern.Creational.factorymethod.Logger.DatabaseLogger</node>
-                <node x="210.70166666666665" y="113.0">lin.pattern.Creational.factorymethod.Logger.LoggerFactory</node>
-                <node x="40.833333333333314" y="304.0">lin.pattern.Creational.factorymethod.Logger.FileLoggerFactory</node>
-                <node x="0.0" y="152.0">lin.pattern.Creational.factorymethod.Logger.FileLogger</node>
-                <node x="647.8683333333333" y="304.0">lin.pattern.Creational.factorymethod.Logger.DatabaseLoggerFactory</node>
-                <node x="353.83916666666664" y="330.0">lin.pattern.Creational.factorymethod.Logger.client</node>
-                <node x="259.20166666666665" y="0.0">lin.pattern.Creational.factorymethod.Logger.Logger</node>
+                <node x="235.125" y="152.0">lin.pattern.Creational.factorymethod.Logger.XMLUtil</node>
+                <node x="737.5391666666667" y="152.0">lin.pattern.Creational.factorymethod.Logger.DatabaseLogger</node>
+                <node x="432.125" y="113.0">lin.pattern.Creational.factorymethod.Logger.LoggerFactory</node>
+                <node x="0.0" y="304.0">lin.pattern.Creational.factorymethod.Logger.FileLoggerFactory</node>
+                <node x="51.16666666666663" y="152.0">lin.pattern.Creational.factorymethod.Logger.FileLogger</node>
+                <node x="601.7058333333333" y="304.0">lin.pattern.Creational.factorymethod.Logger.DatabaseLoggerFactory</node>
+                <node x="359.69999999999993" y="330.0">lin.pattern.Creational.factorymethod.Logger.client</node>
+                <node x="480.625" y="0.0">lin.pattern.Creational.factorymethod.Logger.Logger</node>
               </nodes>
               <notes />
               <edges>
@@ -72,70 +69,70 @@
                 </edge>
                 <edge source="lin.pattern.Creational.factorymethod.Logger.DatabaseLogger" target="lin.pattern.Creational.factorymethod.Logger.Logger">
                   <point x="0.0" y="-31.5" />
-                  <point x="773.2016666666666" y="93.0" />
-                  <point x="373.3016666666667" y="93.0" />
-                  <point x="32.60000000000002" y="31.5" />
+                  <point x="823.0391666666667" y="83.0" />
+                  <point x="627.325" y="83.0" />
+                  <point x="65.19999999999999" y="31.5" />
                 </edge>
                 <edge source="lin.pattern.Creational.factorymethod.Logger.FileLoggerFactory" target="lin.pattern.Creational.factorymethod.Logger.FileLogger">
-                  <point x="-86.66666666666663" y="-57.5" />
-                  <point x="84.16666666666669" y="284.0" />
-                  <point x="81.5" y="284.0" />
+                  <point x="0.0" y="-57.5" />
+                  <point x="130.0" y="284.0" />
+                  <point x="132.66666666666663" y="284.0" />
                   <point x="0.0" y="31.5" />
                 </edge>
                 <edge source="lin.pattern.Creational.factorymethod.Logger.DatabaseLoggerFactory" target="lin.pattern.Creational.factorymethod.Logger.Logger">
-                  <point x="86.66666666666669" y="-57.5" />
-                  <point x="864.5350000000001" y="284.0" />
-                  <point x="869.2016666666666" y="284.0" />
-                  <point x="869.2016666666666" y="83.0" />
-                  <point x="405.9016666666667" y="83.0" />
-                  <point x="65.20000000000005" y="31.5" />
+                  <point x="0.0" y="-57.5" />
+                  <point x="731.7058333333333" y="284.0" />
+                  <point x="727.0391666666667" y="284.0" />
+                  <point x="727.0391666666667" y="93.0" />
+                  <point x="594.7249999999999" y="93.0" />
+                  <point x="32.599999999999966" y="31.5" />
                 </edge>
                 <edge source="lin.pattern.Creational.factorymethod.Logger.FileLoggerFactory" target="lin.pattern.Creational.factorymethod.Logger.LoggerFactory">
                   <point x="86.66666666666663" y="-57.5" />
-                  <point x="257.49999999999994" y="284.0" />
-                  <point x="254.03499999999997" y="284.0" />
+                  <point x="216.66666666666663" y="284.0" />
+                  <point x="475.4583333333333" y="284.0" />
                   <point x="-86.66666666666669" y="70.5" />
                 </edge>
                 <edge source="lin.pattern.Creational.factorymethod.Logger.DatabaseLoggerFactory" target="lin.pattern.Creational.factorymethod.Logger.DatabaseLogger">
-                  <point x="0.0" y="-57.5" />
-                  <point x="777.8683333333333" y="284.0" />
-                  <point x="773.2016666666666" y="284.0" />
+                  <point x="86.66666666666669" y="-57.5" />
+                  <point x="818.3725" y="284.0" />
+                  <point x="823.0391666666667" y="284.0" />
                   <point x="0.0" y="31.5" />
                 </edge>
                 <edge source="lin.pattern.Creational.factorymethod.Logger.client" target="lin.pattern.Creational.factorymethod.Logger.XMLUtil">
-                  <point x="47.25" y="-31.5" />
-                  <point x="495.58916666666664" y="284.0" />
-                  <point x="579.2016666666666" y="284.0" />
+                  <point x="-47.25" y="-31.5" />
+                  <point x="406.94999999999993" y="274.0" />
+                  <point x="323.625" y="274.0" />
                   <point x="0.0" y="31.5" />
                 </edge>
                 <edge source="lin.pattern.Creational.factorymethod.Logger.client" target="lin.pattern.Creational.factorymethod.Logger.LoggerFactory">
-                  <point x="-47.25" y="-31.5" />
-                  <point x="401.08916666666664" y="284.0" />
-                  <point x="340.70166666666665" y="284.0" />
+                  <point x="47.25" y="-31.5" />
+                  <point x="501.44999999999993" y="284.0" />
+                  <point x="562.125" y="284.0" />
                   <point x="0.0" y="70.5" />
                 </edge>
                 <edge source="lin.pattern.Creational.factorymethod.Logger.DatabaseLoggerFactory" target="lin.pattern.Creational.factorymethod.Logger.LoggerFactory">
                   <point x="-86.66666666666669" y="-57.5" />
-                  <point x="691.2016666666666" y="274.0" />
-                  <point x="427.3683333333334" y="274.0" />
-                  <point x="86.66666666666674" y="70.5" />
+                  <point x="645.0391666666667" y="284.0" />
+                  <point x="648.7916666666667" y="284.0" />
+                  <point x="86.66666666666669" y="70.5" />
                 </edge>
                 <edge source="lin.pattern.Creational.factorymethod.Logger.FileLogger" target="lin.pattern.Creational.factorymethod.Logger.Logger">
                   <point x="0.0" y="-31.5" />
-                  <point x="81.5" y="83.0" />
-                  <point x="275.50166666666667" y="83.0" />
-                  <point x="-65.19999999999999" y="31.5" />
-                </edge>
-                <edge source="lin.pattern.Creational.factorymethod.Logger.FileLoggerFactory" target="lin.pattern.Creational.factorymethod.Logger.Logger">
-                  <point x="0.0" y="-57.5" />
-                  <point x="170.83333333333331" y="284.0" />
-                  <point x="173.5" y="284.0" />
-                  <point x="173.5" y="93.0" />
-                  <point x="308.10166666666663" y="93.0" />
+                  <point x="132.66666666666663" y="93.0" />
+                  <point x="529.525" y="93.0" />
                   <point x="-32.60000000000002" y="31.5" />
                 </edge>
+                <edge source="lin.pattern.Creational.factorymethod.Logger.FileLoggerFactory" target="lin.pattern.Creational.factorymethod.Logger.Logger">
+                  <point x="-86.66666666666674" y="-57.5" />
+                  <point x="43.33333333333326" y="284.0" />
+                  <point x="40.66666666666663" y="284.0" />
+                  <point x="40.66666666666663" y="83.0" />
+                  <point x="496.925" y="83.0" />
+                  <point x="-65.19999999999999" y="31.5" />
+                </edge>
               </edges>
-              <settings layout="Hierarchic Group" zoom="1.0" x="160.0" y="101.5" />
+              <settings layout="Hierarchic Group" zoom="1.0" x="460.0" y="209.5" />
               <SelectedNodes />
               <Categories>
                 <Category>Fields</Category>
@@ -150,11 +147,6 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/lin/pattern/Creational/factorymethod/Logger/Package Logger.png">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/lin/pattern/Structural/pattern.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -167,8 +159,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/lin/ML/base.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="9" selection-start-line="9" selection-end-line="9" />
+            <state relative-caret-position="200">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
             </state>
           </provider>
         </entry>
@@ -721,7 +713,7 @@
       <workItem from="1574038375993" duration="13643000" />
       <workItem from="1574308011841" duration="301000" />
       <workItem from="1574308322701" duration="3548000" />
-      <workItem from="1574324196540" duration="7525000" />
+      <workItem from="1574324196540" duration="7790000" />
     </task>
     <task id="LOCAL-00001" summary="DailyWork">
       <created>1574326128012</created>
@@ -765,16 +757,37 @@
       <option name="project" value="LOCAL" />
       <updated>1574386660470</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Add class diagram">
+      <created>1574386669494</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1574386669494</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Add class diagram">
+      <created>1574386869968</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1574386869968</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Add class diagram">
+      <created>1574386904724</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1574386904724</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="130300000" />
+    <option name="totallyTimeSpent" value="130565000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1554" height="916" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49590164" visible="true" weight="0.27125505" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49590164" visible="true" weight="0.27125505" />
       <window_info id="Structure" order="1" sideWeight="0.5026316" side_tool="true" weight="0.2071525" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -796,7 +809,7 @@
       <window_info anchor="bottom" id="Messages" order="11" weight="0.5416667" />
       <window_info anchor="bottom" id="Java Enterprise" order="12" weight="0.32894737" />
       <window_info anchor="bottom" id="Database Changes" order="13" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="14" visible="true" weight="0.32894737" />
+      <window_info anchor="bottom" id="Version Control" order="14" weight="0.32894737" />
       <window_info anchor="bottom" id="File Transfer" order="15" weight="0.32916668" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="1" weight="0.25" />
@@ -1544,8 +1557,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/lin/ML/base.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        <state relative-caret-position="200">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
@@ -1563,20 +1576,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/lin/pattern/Creational/factorymethod/Logger/Package Logger.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="uml://JAVA/lin.pattern.Creational.factorymethod.Logger">
       <provider selected="true" editor-type-id="UmlEditorProvider">
         <state>
           <ID>JAVA</ID>
           <OriginalElement>lin.pattern.Creational.factorymethod.Logger</OriginalElement>
           <nodes>
-            <node x="490.70166666666665" y="152.0">lin.pattern.Creational.factorymethod.Logger.XMLUtil</node>
-            <node x="687.7016666666666" y="152.0">lin.pattern.Creational.factorymethod.Logger.DatabaseLogger</node>
-            <node x="210.70166666666665" y="113.0">lin.pattern.Creational.factorymethod.Logger.LoggerFactory</node>
-            <node x="40.833333333333314" y="304.0">lin.pattern.Creational.factorymethod.Logger.FileLoggerFactory</node>
-            <node x="0.0" y="152.0">lin.pattern.Creational.factorymethod.Logger.FileLogger</node>
-            <node x="647.8683333333333" y="304.0">lin.pattern.Creational.factorymethod.Logger.DatabaseLoggerFactory</node>
-            <node x="353.83916666666664" y="330.0">lin.pattern.Creational.factorymethod.Logger.client</node>
-            <node x="259.20166666666665" y="0.0">lin.pattern.Creational.factorymethod.Logger.Logger</node>
+            <node x="235.125" y="152.0">lin.pattern.Creational.factorymethod.Logger.XMLUtil</node>
+            <node x="737.5391666666667" y="152.0">lin.pattern.Creational.factorymethod.Logger.DatabaseLogger</node>
+            <node x="432.125" y="113.0">lin.pattern.Creational.factorymethod.Logger.LoggerFactory</node>
+            <node x="0.0" y="304.0">lin.pattern.Creational.factorymethod.Logger.FileLoggerFactory</node>
+            <node x="51.16666666666663" y="152.0">lin.pattern.Creational.factorymethod.Logger.FileLogger</node>
+            <node x="601.7058333333333" y="304.0">lin.pattern.Creational.factorymethod.Logger.DatabaseLoggerFactory</node>
+            <node x="359.69999999999993" y="330.0">lin.pattern.Creational.factorymethod.Logger.client</node>
+            <node x="480.625" y="0.0">lin.pattern.Creational.factorymethod.Logger.Logger</node>
           </nodes>
           <notes />
           <edges>
@@ -1586,70 +1602,70 @@
             </edge>
             <edge source="lin.pattern.Creational.factorymethod.Logger.DatabaseLogger" target="lin.pattern.Creational.factorymethod.Logger.Logger">
               <point x="0.0" y="-31.5" />
-              <point x="773.2016666666666" y="93.0" />
-              <point x="373.3016666666667" y="93.0" />
-              <point x="32.60000000000002" y="31.5" />
+              <point x="823.0391666666667" y="83.0" />
+              <point x="627.325" y="83.0" />
+              <point x="65.19999999999999" y="31.5" />
             </edge>
             <edge source="lin.pattern.Creational.factorymethod.Logger.FileLoggerFactory" target="lin.pattern.Creational.factorymethod.Logger.FileLogger">
-              <point x="-86.66666666666663" y="-57.5" />
-              <point x="84.16666666666669" y="284.0" />
-              <point x="81.5" y="284.0" />
+              <point x="0.0" y="-57.5" />
+              <point x="130.0" y="284.0" />
+              <point x="132.66666666666663" y="284.0" />
               <point x="0.0" y="31.5" />
             </edge>
             <edge source="lin.pattern.Creational.factorymethod.Logger.DatabaseLoggerFactory" target="lin.pattern.Creational.factorymethod.Logger.Logger">
-              <point x="86.66666666666669" y="-57.5" />
-              <point x="864.5350000000001" y="284.0" />
-              <point x="869.2016666666666" y="284.0" />
-              <point x="869.2016666666666" y="83.0" />
-              <point x="405.9016666666667" y="83.0" />
-              <point x="65.20000000000005" y="31.5" />
+              <point x="0.0" y="-57.5" />
+              <point x="731.7058333333333" y="284.0" />
+              <point x="727.0391666666667" y="284.0" />
+              <point x="727.0391666666667" y="93.0" />
+              <point x="594.7249999999999" y="93.0" />
+              <point x="32.599999999999966" y="31.5" />
             </edge>
             <edge source="lin.pattern.Creational.factorymethod.Logger.FileLoggerFactory" target="lin.pattern.Creational.factorymethod.Logger.LoggerFactory">
               <point x="86.66666666666663" y="-57.5" />
-              <point x="257.49999999999994" y="284.0" />
-              <point x="254.03499999999997" y="284.0" />
+              <point x="216.66666666666663" y="284.0" />
+              <point x="475.4583333333333" y="284.0" />
               <point x="-86.66666666666669" y="70.5" />
             </edge>
             <edge source="lin.pattern.Creational.factorymethod.Logger.DatabaseLoggerFactory" target="lin.pattern.Creational.factorymethod.Logger.DatabaseLogger">
-              <point x="0.0" y="-57.5" />
-              <point x="777.8683333333333" y="284.0" />
-              <point x="773.2016666666666" y="284.0" />
+              <point x="86.66666666666669" y="-57.5" />
+              <point x="818.3725" y="284.0" />
+              <point x="823.0391666666667" y="284.0" />
               <point x="0.0" y="31.5" />
             </edge>
             <edge source="lin.pattern.Creational.factorymethod.Logger.client" target="lin.pattern.Creational.factorymethod.Logger.XMLUtil">
-              <point x="47.25" y="-31.5" />
-              <point x="495.58916666666664" y="284.0" />
-              <point x="579.2016666666666" y="284.0" />
+              <point x="-47.25" y="-31.5" />
+              <point x="406.94999999999993" y="274.0" />
+              <point x="323.625" y="274.0" />
               <point x="0.0" y="31.5" />
             </edge>
             <edge source="lin.pattern.Creational.factorymethod.Logger.client" target="lin.pattern.Creational.factorymethod.Logger.LoggerFactory">
-              <point x="-47.25" y="-31.5" />
-              <point x="401.08916666666664" y="284.0" />
-              <point x="340.70166666666665" y="284.0" />
+              <point x="47.25" y="-31.5" />
+              <point x="501.44999999999993" y="284.0" />
+              <point x="562.125" y="284.0" />
               <point x="0.0" y="70.5" />
             </edge>
             <edge source="lin.pattern.Creational.factorymethod.Logger.DatabaseLoggerFactory" target="lin.pattern.Creational.factorymethod.Logger.LoggerFactory">
               <point x="-86.66666666666669" y="-57.5" />
-              <point x="691.2016666666666" y="274.0" />
-              <point x="427.3683333333334" y="274.0" />
-              <point x="86.66666666666674" y="70.5" />
+              <point x="645.0391666666667" y="284.0" />
+              <point x="648.7916666666667" y="284.0" />
+              <point x="86.66666666666669" y="70.5" />
             </edge>
             <edge source="lin.pattern.Creational.factorymethod.Logger.FileLogger" target="lin.pattern.Creational.factorymethod.Logger.Logger">
               <point x="0.0" y="-31.5" />
-              <point x="81.5" y="83.0" />
-              <point x="275.50166666666667" y="83.0" />
-              <point x="-65.19999999999999" y="31.5" />
-            </edge>
-            <edge source="lin.pattern.Creational.factorymethod.Logger.FileLoggerFactory" target="lin.pattern.Creational.factorymethod.Logger.Logger">
-              <point x="0.0" y="-57.5" />
-              <point x="170.83333333333331" y="284.0" />
-              <point x="173.5" y="284.0" />
-              <point x="173.5" y="93.0" />
-              <point x="308.10166666666663" y="93.0" />
+              <point x="132.66666666666663" y="93.0" />
+              <point x="529.525" y="93.0" />
               <point x="-32.60000000000002" y="31.5" />
             </edge>
+            <edge source="lin.pattern.Creational.factorymethod.Logger.FileLoggerFactory" target="lin.pattern.Creational.factorymethod.Logger.Logger">
+              <point x="-86.66666666666674" y="-57.5" />
+              <point x="43.33333333333326" y="284.0" />
+              <point x="40.66666666666663" y="284.0" />
+              <point x="40.66666666666663" y="83.0" />
+              <point x="496.925" y="83.0" />
+              <point x="-65.19999999999999" y="31.5" />
+            </edge>
           </edges>
-          <settings layout="Hierarchic Group" zoom="1.0" x="160.0" y="101.5" />
+          <settings layout="Hierarchic Group" zoom="1.0" x="460.0" y="209.5" />
           <SelectedNodes />
           <Categories>
             <Category>Fields</Category>
@@ -1662,9 +1678,6 @@
           <VISIBILITY>private</VISIBILITY>
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lin/pattern/Creational/factorymethod/Logger/Package Logger.png">
-      <provider selected="true" editor-type-id="images" />
     </entry>
   </component>
   <component name="masterDetails">
